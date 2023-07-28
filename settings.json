@@ -1,0 +1,7 @@
+{
+	"default": {
+		"DefaultXCoordinateSize": 4,
+		"DefaultYCoordinateSize": 4,
+		"DefaultDifficulty": "Medium"
+	}
+}
